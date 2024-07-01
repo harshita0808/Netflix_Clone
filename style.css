@@ -27,6 +27,7 @@ body {
     position: absolute;
     top: 0;
     background-color: black;
+    background-image: url("assets/images/bg.jpg"); 
 }
 
 nav {
